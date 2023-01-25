@@ -1,1 +1,1 @@
-midas algorithm for monocular depth estimation
+TODO: / run I/O on seperate thread to increase fps
